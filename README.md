@@ -10,7 +10,7 @@ A full-stack web application with a Next.js frontend and a Node.js/Express backe
 - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
 - [Tech Stack](#tech-stack)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ---
 
